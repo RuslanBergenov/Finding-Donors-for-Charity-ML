@@ -1,4 +1,4 @@
-# Machine Learning - Introduction Nanodegree
+# UdacityMachine Learning - Introduction Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
